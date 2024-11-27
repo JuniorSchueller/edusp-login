@@ -1,0 +1,10 @@
+{
+  "name": "edusp-login",
+  "version": "1.0.0",
+  "description": "Implemente login com a EDUSP.",
+  "main": "./lib/edusp-login.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "JuniorSchueller",
+  "license": "MIT"
+}
